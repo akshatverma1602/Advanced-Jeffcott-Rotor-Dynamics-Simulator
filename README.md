@@ -85,9 +85,6 @@ For each fault configuration, the notebook produces:
 | Campbell diagram | Speed sweep | Amplitude vs speed — identifies critical speed |
 
 ---
-
-## How to Run
-
 ### Requirements
 
 ```
@@ -106,8 +103,7 @@ pip install numpy scipy matplotlib PyWavelets pandas jupyter
 ### Running the Notebook
 
 ```bash
-git clone https://github.com/yourusername/jeffcott-rotor-simulator.git
-cd jeffcott-rotor-simulator
+git clone https://github.com/akshatverma1602/Advanced-Jeffcott-Rotor-Dynamics-Simulator.git
 jupyter notebook jeffcott_rotor_simulator.ipynb
 ```
 ### Changing Parameters
